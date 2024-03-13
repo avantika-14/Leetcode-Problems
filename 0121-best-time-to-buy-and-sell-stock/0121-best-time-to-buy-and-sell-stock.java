@@ -6,7 +6,7 @@ class Solution {
         for(int i=1;i<prices.length;i++){
             cost=prices[i]-min;
             profit=Math.max(cost,profit); //comparing the profits
-            min=Math.min(min,prices[i]);  //updating the minimum value
+            min=Math.min(min,prices[i]);  //updating the minimum
         }
         return profit;
     }
