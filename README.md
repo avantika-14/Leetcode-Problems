@@ -1,2 +1,2 @@
 # Leetcode - Array Problems
-Collection of LeetCode questions to ace the coding interview!
+Collection of LeetCode array questions to ace the coding interview!
